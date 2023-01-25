@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Task 1",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-10",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Task 2",
+      "startDate": "2022-01-05",
+      "endDate": "2022-01-15",
+      "completed": false
+    },
+    {
+      "name": "Buy Groseries",
+      "startDate": "2023-01-26",
+      "endDate": "2023-01-25",
+      "completed": false,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "User 1",
+      "email": "user1@example.com",
+      "password": "password123",
+      "birthdate": "1990-01-01",
+      "sex": "male",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "User 2",
+      "email": "user2@example.com",
+      "password": "password456",
+      "birthdate": "1995-05-05",
+      "sex": "female",
+      "role": "user"
+    },
+    {
+      "name": "yafet",
+      "email": "yafetbirhanu@gmail.com",
+      "birthdate": "2023-01-18",
+      "sex": "male",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 3
+    }
+  ]
+}
